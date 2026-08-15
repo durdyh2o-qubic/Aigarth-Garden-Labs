@@ -1,0 +1,7 @@
+# Grok bot interactive runs
+simulations/results_mut*_grok_*.csv
+simulations/best_child_mut*_grok_*.npy
+
+# Python
+__pycache__/
+*.py[cod]

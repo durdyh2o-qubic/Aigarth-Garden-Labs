@@ -1,0 +1,2 @@
+# Grok bot extras (garden sims already use numpy/pandas/matplotlib/click in garden_venv)
+xai-sdk>=1.0.0
